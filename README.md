@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Saptakcodes
 - 👀 I’m interested in coding and learning 
-- 🌱 I’m currently learning python,c,java
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning python,c,java,js, react, node.js, R
+- 💞️ 
 - 📫 How to reach me - mail me 
 - 😄 Pronouns: he
-- ⚡ Fun fact: I am Noob 
+- ⚡ Fun fact: Learning stufff atm
 
 <!---
 Saptakcodes/Saptakcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
