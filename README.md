@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saptakcodes
 - 👀 I’m interested in coding and learning 
-- 🌱 I’m currently learning python,c,java,js, react, node.js, R
+- 🌱 I’m currently learning python,c,java,js, react.js, node.js, R, JAVA, Data Analytics using python
 - 💞️ 
 - 📫 How to reach me - mail me 
 - 😄 Pronouns: he
