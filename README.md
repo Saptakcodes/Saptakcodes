@@ -4,7 +4,7 @@
 - 💞️ 
 - 📫 How to reach me - mail me 
 - 😄 Pronouns: he
-- ⚡ Fun fact: Learning stufff atm
+- ⚡ Fun fact: Learning stuff atm
 
 <!---
 Saptakcodes/Saptakcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
