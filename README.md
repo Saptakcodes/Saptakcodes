@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Saptakcodes
+- 👋 Hi, I’m Saptak Chaki
 - 👀 I’m interested in coding and learning 
-- 🌱 I’m currently learning python,c,java,js, react.js, node.js, R, JAVA, Data Analytics using python
+- 🌱 I’m currently learning python,c,java,js, react.js, fastapi, flask, R, JAVA, Data Analytics using python , AI/ML
 - 💞️ 
-- 📫 How to reach me - mail me 
+- 📫 How to reach me - mail me @saptakchaki05@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: Learning stuff atm
 
